@@ -77,9 +77,7 @@ Não foram fornecidos recursos, cura, conhecimento, necessidades preenchidas, tr
 
 ## Meu papel e processo
 
-**Aron — estudante de ADS.** Definição de requisitos e direção do projeto, acompanhamento das iterações e avaliação do comportamento esperado. Ferramentas de IA apoiam a implementação, a revisão, os testes e a documentação. O projeto também é um ambiente de aprendizado técnico contínuo.
-
-O foco deste portfólio é apresentar o problema, as decisões, as evidências e as limitações de forma verificável, sem atribuir toda a implementação a programação manual.
+**Aron — estudante de ADS.** Direção do projeto, definição dos comportamentos e acompanhamento das iterações. Uso IA para somar à criatividade e ao desenvolvimento, com apoio na implementação, revisão e testes. O projeto é também um espaço de aprendizado técnico contínuo.
 
 ## Código e distribuição
 
